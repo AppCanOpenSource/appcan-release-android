@@ -1,7 +1,8 @@
 # appcan-release-android
 
+***
 ### 2015/5/20版本更新记录
-- - - -	
+***
 
 ####Android引擎：            版本号：android_Engine_3.1_150522_01       
    更新内容：
