@@ -1,6 +1,13 @@
 # appcan-release-android
 
 ***
+### 2015/5/29版本更新记录
+   ####Android插件：
+ 1. 插件名称及版本号：uexScrollPicture-3.0.1
+ 	更新内容：新增插件 2. 插件名称及版本号：uexEasemob-3.0.3
+ 	更新内容：新增发送视频，发送回执接口 3. 插件名称及版本号：uexJPush-3.0.0
+ 	更新内容：新增插件*** 	
+
 ### 2015/5/20版本更新记录
 
 ####Android引擎：            版本号：android_Engine_3.1_150522_01       
