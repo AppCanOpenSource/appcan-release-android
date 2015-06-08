@@ -1,6 +1,18 @@
 # appcan-release-android
 
 ***
+### 2015/6/5版本更新记录
+####Android插件：
+
+1.	插件名称及版本号：uexWeiXin-3.1.29
+	
+	更新内容：uexWeiXin插件，支付sdk升级。
+	
+
+	
+
+***
+	
 ### 2015/5/29版本更新记录
    ####Android插件：
  1. 插件名称及版本号：uexScrollPicture-3.0.1
