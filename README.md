@@ -1,4 +1,18 @@
 # appcan-release-android
+### 2015/6/12版本更新记录
+
+####Android引擎：            版本号：android_Engine_3.1_150612_02     
+   更新内容：
+
+1. 修复低版本安卓机找不到isHardwareAccelerated 的问题2. 支持网页&lt;input type="file”&gt;3. toggleSlidingWindow添加reload参数 	          ####Android插件：
+ 1. 插件名称及版本号：uexBaiduMap 3.1.19
+     更新内容： 解决百度地图上箭头不转动的问题
+     2. 插件名称及版本号： uexEasemob 3.0.5
+     更新内容：升级环信SDK 3. 插件名称及版本号： uexCall 3.0.1
+        更新内容：  去掉直接拨打电话的接口及权限  4. 插件名称及版本号：uexSMS 3.0.1
+        更新内容： 去掉直接发送短信功能及权限 5. 插件名称及版本号： uexJPush 3.0.1
+        更新内容：  修复退出应用时收到推送闪退的问题 6. 插件名称及版本号：uexScanner-3.0.11
+        更新内容：  增加扫描本地图片功能。         7. 插件名称及版本号：新增uexChart几何图表插件
 
 ***
 ### 2015/6/5版本更新记录
