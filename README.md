@@ -1,4 +1,22 @@
 # appcan-release-android
+### 2015/6/25版本更新记录
+
+####Android引擎：            版本号：android_Engine_3.1_150624_01
+   更新内容：
+   1. 修复弹出两次增量更新提示问题
+   2. 修复低版本手机开启增量更新开关崩溃问题
+   3. 修复外置sd卡路径图片无法显示的问题 	          ####Android插件：
+ 1. 插件名称及版本号：uexBaiduMap-3.1.20     更新内容：
+    * 修复点击路径规划中的起终点标注时，应用崩溃的问题
+    * 去除多余的权限
+ 2. 插件名称及版本号：uexAreaPickerView-3.0.2     更新内容：新增
+ 3. 插件名称及版本号：uexCalendarView-3.0.1     更新内容：新增
+ 4. 插件名称及版本号：uexChatKeyboard-3.0.5     更新内容：新增
+ 5. 插件名称及版本号：uexCityListView-3.0.0     更新内容：新增
+ 6. 插件名称及版本号：uexInputTextFieldView-3.0.6     更新内容：新增
+ 7. 插件名称及版本号：uexLoadingView-3.0.3     更新内容：新增            
+
+
 ### 2015/6/19版本更新记录
 
 ####Android引擎：            版本号：android_Engine_3.1_150616_01  
