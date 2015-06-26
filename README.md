@@ -18,7 +18,9 @@
  8. 插件名称及版本号：uexInputTextFieldView-3.0.6     更新内容：新增
  9. 插件名称及版本号：uexLoadingView-3.0.3     更新内容：新增
  10. 插件名称及版本号：uexFileMgr-3.0.4     更新内容：添加renameFile接口
- 11. 插件名称及版本号：uexIndexBar-3.0.1     更新内容：clean时不删除view            
+ 11. 插件名称及版本号：uexIndexBar-3.0.1     更新内容：clean时不删除view
+ 12. 插件名称及版本号：uexEasemob-3.0.7
+      更新内容：getChatterInfo返回新加好友的聊天记录            
 
 
 ### 2015/6/19版本更新记录
