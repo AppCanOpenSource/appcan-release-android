@@ -9,12 +9,16 @@
  1. 插件名称及版本号：uexBaiduMap-3.1.20     更新内容：
     * 修复点击路径规划中的起终点标注时，应用崩溃的问题
     * 去除多余的权限
- 2. 插件名称及版本号：uexAreaPickerView-3.0.2     更新内容：新增
- 3. 插件名称及版本号：uexCalendarView-3.0.1     更新内容：新增
- 4. 插件名称及版本号：uexChatKeyboard-3.0.5     更新内容：新增
- 5. 插件名称及版本号：uexCityListView-3.0.0     更新内容：新增
- 6. 插件名称及版本号：uexInputTextFieldView-3.0.6     更新内容：新增
- 7. 插件名称及版本号：uexLoadingView-3.0.3     更新内容：新增            
+ 2. 插件名称及版本号：uexCall-3.0.2     更新内容：兼容老版本插件
+ 3. 插件名称及版本号：uexSMS-3.0.2     更新内容：兼容老版本插件
+ 4. 插件名称及版本号：uexAreaPickerView-3.0.2     更新内容：新增
+ 5. 插件名称及版本号：uexCalendarView-3.0.1     更新内容：新增
+ 6. 插件名称及版本号：uexChatKeyboard-3.0.5     更新内容：新增
+ 7. 插件名称及版本号：uexCityListView-3.0.0     更新内容：新增
+ 8. 插件名称及版本号：uexInputTextFieldView-3.0.6     更新内容：新增
+ 9. 插件名称及版本号：uexLoadingView-3.0.3     更新内容：新增
+ 10. 插件名称及版本号：uexFileMgr-3.0.4     更新内容：添加renameFile接口
+ 11. 插件名称及版本号：uexIndexBar-3.0.1     更新内容：clean时不删除view            
 
 
 ### 2015/6/19版本更新记录
