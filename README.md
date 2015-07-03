@@ -1,4 +1,17 @@
 # appcan-release-android
+### 2015/7/3版本更新记录
+
+####Android引擎：            版本号：android_Engine_3.1_150703_01
+      更新内容：
+
+ 1. 新增isAppInstalled，cbIsAppInstalled判断是否安装某第三方应用方法及其回调方法
+ 2. 新增cbStartApp启动第三方应用的回调方法。 	          ####Android插件：
+ 1. 插件名称及版本号：uexImageBrowser-3.0.21     更新内容：修复多选图片接口在手机上没有图片时崩溃的问题
+ 2. 插件名称及版本号：uexLocalNotification-3.0.6     更新内容：修复应用在后台被杀后无法通知的问题
+ 3. 插件名称及版本号：uexGaodeMap-3.0.2     更新内容：新增removeMarkersOverlays、removeOverlays、setScaleVisible、setMyLocationButtonVisible、setZoomVisible接口。 4. 插件名称及版本号：uexEasemob-3.0.8     更新内容：getGroup添加groupName,groupDescription字段
+ 5. 插件名称及版本号：uexChatKeyboard-3.0.6     更新内容：修复点击表情，再点击空白区域，再点击输入框时撑满屏幕的问题
+ 6. 插件名称及版本号：uexChart-3.0.1     更新内容：替换ActivityGroup
+
 ### 2015/6/25版本更新记录
 
 ####Android引擎：            版本号：android_Engine_3.1_150624_01
