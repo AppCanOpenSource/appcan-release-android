@@ -1,4 +1,29 @@
 # appcan-release-android
+### 2015/7/10版本更新记录
+####Android插件：
+
+1.	插件名称及版本号：uexScanner-3.0.12 
+	
+	更新内容：去除读取联系人权限	
+
+2.	插件名称及版本号：uexClipboard-3.0.1
+		
+	更新内容：修复被复制的文本包含换行符会导致插件异常的bug
+	
+3.	插件名称及版本号：uexJPush-3.0.3
+	
+	更新内容：
+	* 修复onReceiveNotificationOpen,调整初始化时机    * 修复4.4以下版本点击通知闪退的问题
+
+4.	插件名称及版本号：uexAreaPickerView-3.0.3  
+	
+	更新内容：返回数据添加空格便于分割
+
+
+	
+
+***
+
 ### 2015/7/3版本更新记录
 
 ####Android引擎：            版本号：android_Engine_3.1_150703_01
@@ -11,7 +36,7 @@
  3. 插件名称及版本号：uexGaodeMap-3.0.2     更新内容：新增removeMarkersOverlays、removeOverlays、setScaleVisible、setMyLocationButtonVisible、setZoomVisible接口。 4. 插件名称及版本号：uexEasemob-3.0.8     更新内容：getGroup添加groupName,groupDescription字段
  5. 插件名称及版本号：uexChatKeyboard-3.0.6     更新内容：修复点击表情，再点击空白区域，再点击输入框时撑满屏幕的问题
  6. 插件名称及版本号：uexChart-3.0.1     更新内容：替换ActivityGroup
-
+***
 ### 2015/6/25版本更新记录
 
 ####Android引擎：            版本号：android_Engine_3.1_150624_01
@@ -34,7 +59,7 @@
  11. 插件名称及版本号：uexIndexBar-3.0.1     更新内容：clean时不删除view
  12. 插件名称及版本号：uexEasemob-3.0.7
       更新内容：getChatterInfo返回新加好友的聊天记录            
-
+***
 
 ### 2015/6/19版本更新记录
 
@@ -45,7 +70,7 @@
     * 添加getTotalUnreadMsgCount接口
     * 获取全部公开群改成分页获取
         
-
+***
 ### 2015/6/12版本更新记录
 
 ####Android引擎：            版本号：android_Engine_3.1_150612_02     
