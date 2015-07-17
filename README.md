@@ -1,4 +1,13 @@
 # appcan-release-android
+### 2015/7/17版本更新记录
+
+####Android插件：
+ 1. 插件名称及版本号：uexEasemob-3.0.9      更新内容：支持离线消息
+ 2. 插件名称及版本号：uexIndexBar-3.0.2      更新内容：    * 索引表可以设置是否随网页滑动    * 修改多次open之后不能成功close的问题
+ 3. 插件名称及版本号：uexBaiduMap-3.1.22
+ 	更新内容：修复加入百度地图插件后uexLocation.openLocation()中的onchange事件不能使用问题
+***
+
 ### 2015/7/10版本更新记录
 ####Android插件：
 
