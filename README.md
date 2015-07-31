@@ -1,4 +1,13 @@
 # appcan-release-android
+### 2015/7/31版本更新记录
+
+####Android插件：
+ 1. 插件名称及版本号：uexAudio-3.0.5      更新内容：修复uexAudio.record方法不支持录音文件存储为.mp3格式的问题
+ 2. 插件名称及版本号：uexFileMgr-3.0.5      更新内容：新增cbWriteFile回调方法
+ 3. 插件名称及版本号：uexChatKeyboard-3.0.7
+ 	更新内容：添加返回输入工具条高度的接口
+***
+
 ### 2015/7/24版本更新记录
 ####Android引擎：            版本号：android_Engine_3.1_150724_01
       更新内容：修复多个appcan.window.alert()同时执行时，只会弹出一次的问题
