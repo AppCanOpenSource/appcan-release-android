@@ -9,7 +9,7 @@
  4. 插件名称及版本号：uexBluetoothLE-3.0.0
  	更新内容：新增
  5. 插件名称及版本号：uexEasemob-3.0.10
- 	更新内容：添加getRecentChatters接口
+ 	更新内容：新增API:getRecentChatters，onMessageSent
 ***
 
 ### 2015/7/24版本更新记录
