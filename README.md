@@ -8,9 +8,11 @@
  	更新内容：添加返回输入工具条高度的接口
  4. 插件名称及版本号：uexBluetoothLE-3.0.0
  	更新内容：新增
- 5. 插件名称及版本号：uexEasemob-3.0.10
- 	更新内容：新增API:getRecentChatters，onMessageSent
-***
+  5. 插件名称及版本号：uexEasemob-3.0.11
+ 	更新内容：
+ 	* 新增API:getRecentChatters，onMessageSent
+ 	* 添加创建群回调onGroupCreated
+***
 
 ### 2015/7/24版本更新记录
 ####Android引擎：            版本号：android_Engine_3.1_150724_01
