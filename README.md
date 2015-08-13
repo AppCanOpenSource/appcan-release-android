@@ -1,4 +1,11 @@
 # appcan-release-android
+### 2015/8/14版本更新记录
+
+####Android插件：
+ 1. 插件名称及版本号：uexJPush-3.0.5      更新内容：解决获取通知附带extras时，json格式错误的问题
+ 2. 插件名称及版本号：uexSearchBarView-3.0.0      更新内容：新增
+
+***
 ### 2015/7/31版本更新记录
 
 ####Android插件：
