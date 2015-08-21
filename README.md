@@ -4,7 +4,8 @@
 ####Android插件：
  1. 插件名称及版本号：uexEasemob-3.0.13       更新内容：
     * 支持声音和震动
-    	* 修复重新登陆后消息记录remoteUrl为空的问题
+    
+	* 发送附件支持wgt,wgts协议    	* 修复重新登陆后消息记录remoteUrl为空的问题
  2. 插件名称及版本号：uexJPush-3.0.6      更新内容：解决自定义消息附带extras时，json格式错误的问题
  3. 插件名称及版本号：uexInputTextFieldView-3.0.8      更新内容：修改EditText和webview中的输入框抢焦点的问题
 
