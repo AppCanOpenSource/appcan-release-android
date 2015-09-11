@@ -1,4 +1,18 @@
 # appcan-release-android
+### 2015/9/11版本更新记录
+####Android引擎：            版本号：android_Engine_3.1_150911_01
+      更新内容：    
+   * 修复startActivityForResult是通过三方应用调起时，收不到回调的问题
+      * 修复load html内容带有中文时乱码的问题
+   * 修复引擎video标签播放视频只有声音没有图像的问题   
+
+####Android插件：
+ 1. 插件名称及版本号：uexJPush-3.0.7       更新内容：修复setTags和setAlias返回错误的问题
+     2. 插件名称及版本号：uexEasemob-3.0.16
+       更新内容：
+    * 修复退出再登陆，聊天记录只有一条的问题
+    * 去掉特殊字符
+  
 ### 2015/8/28版本更新记录
 
 ####Android插件：
