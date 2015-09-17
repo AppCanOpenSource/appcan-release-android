@@ -1,4 +1,9 @@
 # appcan-release-android
+### 2015/9/17版本更新记录
+####Android引擎：            版本号：android_Engine_3.1_150917_01
+      更新内容：修复：支持js调用返回值
+***
+
 ### 2015/9/14版本更新记录
 
 ####Android插件：
