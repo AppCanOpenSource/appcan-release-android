@@ -10,7 +10,8 @@
  4. 插件名称及版本号：uexXmlHttpMgr-3.0.20       更新内容：增加新的 header
  5. 插件名称及版本号：uexChatKeyboard-3.0.10       更新内容：open接口新增参数inputMode默认输入方式
  6. 插件名称及版本号：uexJPush-3.0.8       更新内容：修复通知不含extras时闪退的问题
-    
+ 
+ 7. 插件名称及版本号：uexBaiduNavi-3.0.0       更新内容：新增    
 ***
 
 ### 2015/9/17版本更新记录
