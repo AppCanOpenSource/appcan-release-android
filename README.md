@@ -1,4 +1,15 @@
 # appcan-release-android
+### 2015/9/18版本更新记录
+
+####Android插件：
+ 1. 插件名称及版本号：uexFileMgr-3.0.7       更新内容：修改接口getFileRealPath
+ 2. 插件名称及版本号：uexDownloaderMgr-3.0.10       更新内容：增加新的 header
+ 3. 插件名称及版本号：uexUploaderMgr-3.0.7       更新内容：增加新的 header
+ 4. 插件名称及版本号：uexXmlHttpMgr-3.0.20       更新内容：增加新的 header
+ 5. 插件名称及版本号：uexChatKeyboard-3.0.10       更新内容：open接口新增参数inputMode默认输入方式
+
+***
+
 ### 2015/9/17版本更新记录
 ####Android引擎：            版本号：android_Engine_3.1_150917_01
       更新内容：修复：支持js调用返回值
