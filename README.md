@@ -1,5 +1,7 @@
 # appcan-release-android
 ### 2015/9/18版本更新记录
+####Android引擎：            版本号：android_Engine_3.1_150918_01
+      更新内容：修复应用引擎的uexwindow.prompt,弹出的提示框退出时，软键盘还在的问题
 
 ####Android插件：
  1. 插件名称及版本号：uexFileMgr-3.0.7       更新内容：修改接口getFileRealPath
@@ -7,7 +9,8 @@
  3. 插件名称及版本号：uexUploaderMgr-3.0.7       更新内容：增加新的 header
  4. 插件名称及版本号：uexXmlHttpMgr-3.0.20       更新内容：增加新的 header
  5. 插件名称及版本号：uexChatKeyboard-3.0.10       更新内容：open接口新增参数inputMode默认输入方式
-
+ 6. 插件名称及版本号：uexJPush-3.0.8       更新内容：修复通知不含extras时闪退的问题
+    
 ***
 
 ### 2015/9/17版本更新记录
