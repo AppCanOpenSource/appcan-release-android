@@ -1,4 +1,9 @@
 # appcan-release-android
+### 2015/9/21版本更新记录
+####Android插件：
+ 1. 插件名称及版本号：uexGaodeMap-3.0.6.zip       更新内容：open接口增加地图是否随网页滚动接口
+***
+
 ### 2015/9/18版本更新记录
 ####Android引擎：            版本号：android_Engine_3.1_150918_01
       更新内容：修复应用引擎的uexwindow.prompt,弹出的提示框退出时，软键盘还在的问题
