@@ -1,4 +1,9 @@
 # appcan-release-android
+### 2015/11/09版本更新记录
+####Android引擎：
+   版本号：android_Engine_3.1_151023_01	      更新内容：
+   * Window支持侧滑关闭  * 优化openMultiPopover：优先加载默认页面索引的网页，待其加载完成后，再加载剩下的网页  * 支持锚点链接的跳转，支持ionic
+ ***
 ### 2015/10/30版本更新记录
 ####Android插件：
 1. 插件名称及版本号：uexImage-3.0.2       更新内容：    * 修复了图片压缩时质量出错问题
