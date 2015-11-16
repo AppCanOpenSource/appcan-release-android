@@ -1,4 +1,11 @@
 # appcan-release-android
+### 2015/11/13版本更新记录
+####Android引擎：
+   版本号：android_Engine_3.2_151113_01      更新内容：去掉ActivityGroup，需要配套使用最新插件
+####Android插件：
+1. uexActionSheet-3.0.3 uexAreaPickerView-3.0.4 uexBaiduMap-3.1.26 uexChart-3.0.1 uexCoverFlow2-3.0.6 uexEditDialog-3.0.1 uexGaodeMap-3.0.10 uexImage-3.0.2 uexLoadingView-3.0.4 uexPDFReader-3.0.3 uexPie-3.0.5 uexPieChart-3.0.1 uexSearchBarView-3.0.1 uexSina-3.0.8 uexTent-3.0.10 uexTimeMachine-3.0.4 uexWheel-3.0.15 共17个插件 更新内容：引擎中去掉ActivityGroup。2. 插件名称及版本号：uexFileMgr-3.0.11    更新内容：    * 修改getFileRealPath指定回调名时，只回调一个参数（与ios统一）
+ ***
+
 ### 2015/11/09版本更新记录
 ####Android引擎：
    版本号：android_Engine_3.1_151023_01	      更新内容：
