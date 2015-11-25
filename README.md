@@ -1,4 +1,11 @@
 # appcan-release-android
+### 2015/11/23版本更新记录
+####Android插件：
+1. 版本号：uexCamera-3.0.13
+   更新内容：修复新引擎不能用的问题2. 版本号：uexBaiduMap-3.1.27
+   更新内容：修改插件，使其支持config配置APIKey；3. 版本号：uexChatKeyboard-3.0.11
+   更新内容：去掉LocalActivityManager
+***
 ### 2015/11/13版本更新记录
 ####Android引擎：
    版本号：android_Engine_3.2_151113_01      更新内容：去掉ActivityGroup，需要配套使用最新插件
