@@ -1,4 +1,8 @@
 # appcan-release-android
+### 2015/11/30版本更新记录
+####Android插件：
+ 1. 版本号：uexTent-3.0.11    更新内容：修复取消授权时程序崩溃的问题 2. 版本号：uexCalendarView-3.0.3    更新内容：修复month拼写错误的问题 3. 版本号：uexSina-3.0.9    更新内容：替换SinaSDK，重写授权登陆相关接口；新增login、logout、getUserInfo接口； 4. 版本号：uexWeiXin-3.1.32    更新内容：新增setCallbackWindowName接口，解决偶尔收不到回调的问题；      (因为是修复bug的补充接口，因此iOS暂不需要添加)
+
 ### 2015/11/23版本更新记录
 ####Android插件：
 1. 版本号：uexCamera-3.0.13
