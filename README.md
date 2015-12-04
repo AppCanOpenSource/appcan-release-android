@@ -1,4 +1,16 @@
 # appcan-release-android
+### 2015/12/04版本更新记录
+####Android插件：
+ 1. 版本号：uexLocalNotification-3.0.7    更新内容：修复部分机型闪退的问题 2. 版本号：uexBaiduMap-3.2.28    更新内容：修复open接口传入的中心点不生效的问题 3. 版本号：uexEasemob-3.0.17    更新内容：支持initEasemob配置key，无需自定义插件 4. 版本号：uexBluetoothLE-3.0.2    更新内容：init自动开启蓝牙；修复cbConnect没有回调的问题
+ 5. 版本号：uexInputTextFieldView-3.2.11    更新内容：修复关闭输入框时,键盘未自动收起的问题
+***
+
+### 2015/12/03版本更新记录
+####Android引擎：
+ 版本号：android_Engine_3.2_151203_01 更新内容：
+  * 添加浮动窗口动画
+ * 引擎新增关闭全部硬件加速方法 
+***
 ### 2015/11/30版本更新记录
 ####Android插件：
  1. 版本号：uexTent-3.0.11    更新内容：修复取消授权时程序崩溃的问题 2. 版本号：uexCalendarView-3.0.3    更新内容：修复month拼写错误的问题 3. 版本号：uexSina-3.0.9    更新内容：替换SinaSDK，重写授权登陆相关接口；新增login、logout、getUserInfo接口； 4. 版本号：uexWeiXin-3.1.32    更新内容：新增setCallbackWindowName接口，解决偶尔收不到回调的问题；      (因为是修复bug的补充接口，因此iOS暂不需要添加)
