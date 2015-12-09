@@ -1,4 +1,11 @@
 # appcan-release-android
+### 2015/12/09版本更新记录
+####Android插件：
+1. 版本号：uexAudio-3.0.6
+	更新内容：	* 添加听筒模式接口,修复小米手机音量设置无效的问题
+	
+	* 修复uexAudio.record方法不支持录音文件存储为.mp3格式的问题   2. 版本号：uexTimeMachine-3.0.5   更新内容：修复id覆盖关闭不掉的情况，修复传入小数错误的问题
+ ***
 ### 2015/12/04版本更新记录
 ####Android插件：
  1. 版本号：uexLocalNotification-3.0.7    更新内容：修复部分机型闪退的问题 2. 版本号：uexBaiduMap-3.2.28    更新内容：修复open接口传入的中心点不生效的问题 3. 版本号：uexEasemob-3.0.17    更新内容：支持initEasemob配置key，无需自定义插件 4. 版本号：uexBluetoothLE-3.0.2    更新内容：init自动开启蓝牙；修复cbConnect没有回调的问题
