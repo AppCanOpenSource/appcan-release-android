@@ -1,4 +1,9 @@
 # appcan-release-android
+### 2015/12/19版本更新记录
+####Android插件：
+1. 版本号：uexCoverFlow2-3.0.7   更新内容：open接口添加跟随webview滚动参数,部分逻辑优化2. 版本号：uexScrollPicture-3.0.2   更新内容：修复闪退的问题3. 版本号：uexGestureUnlock-3.0.0   更新内容：新增 4. 版本号：uexUmeng-3.0.0   更新内容：新增 5. 版本号：uexUnionPay-3.0.0   更新内容：新增 6. 版本号：uexLocalNotification-3.0.8   更新内容：修复部分机型通知没有提示音的问题7. 版本号：uexEasemob-3.0.19   更新内容：修改cbGetMessageHistory与文档不一致的问题8. 版本号：uexSina-3.0.10   更新内容：cbRegisterApp回调openId和token9. 版本号：uexGaodeMap-3.0.11   更新内容：修复闪退的问题
+ ***
+
 ### 2015/12/09版本更新记录
 ####Android插件：
 1. 版本号：uexAudio-3.0.6
