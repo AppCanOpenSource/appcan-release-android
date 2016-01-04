@@ -1,4 +1,8 @@
 # appcan-release-android
+### 2015/12/31版本更新记录
+####Android插件：
+1. 版本号：uexDownloaderMgr-3.0.13     更新内容：修复有些url被encode不能下载的问题2. 版本号：uexVideo-3.0.4     更新内容：删除无用资源，修复Gradle编译不过的问题 ***
+
 ### 2015/12/26版本更新记录
 ####Android插件：
 1. 版本号：uexWeiXin-3.1.33     更新内容：修复和完善抛出异常的捕获2. 版本号：uexScanner-3.0.13     更新内容：拍照权限被禁止情况处理3. 版本号：uexChart-3.0.2     更新内容： barChart和lineChart新增option参数  4. 版本号：uexGaodeMap-3.0.12     更新内容：修复闪退的问题 ***
