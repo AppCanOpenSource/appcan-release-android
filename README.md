@@ -1,4 +1,13 @@
 # appcan-release-android
+### 2015/01/11版本更新记录
+####Android插件：
+1. 版本号：uexUploaderMgr-3.0.8     更新内容：*  修正plugin文件错误,导致uexFileMgr的plugin方法被覆盖的问题2. 版本号：uexContact-3.0.1     更新内容：* searchItem接口增加返回信息条数配置;addItem接口增加是否弹出提示框配置
+ ***
+### 2015/01/07版本更新记录
+####Android插件：
+1. 版本号：uexBluetoothLE-3.0.3   更新内容：*  修正回调数据不正确的问题 ***
+
+
 ### 2015/12/31版本更新记录
 ####Android插件：
 1. 版本号：uexDownloaderMgr-3.0.13     更新内容：修复有些url被encode不能下载的问题2. 版本号：uexVideo-3.0.4     更新内容：删除无用资源，修复Gradle编译不过的问题 ***
