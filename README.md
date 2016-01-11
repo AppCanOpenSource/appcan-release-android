@@ -2,6 +2,7 @@
 ### 2015/01/11版本更新记录
 ####Android插件：
 1. 版本号：uexUploaderMgr-3.0.8     更新内容：*  修正plugin文件错误,导致uexFileMgr的plugin方法被覆盖的问题2. 版本号：uexContact-3.0.1     更新内容：* searchItem接口增加返回信息条数配置;addItem接口增加是否弹出提示框配置
+3. 版本号：uexDevice-3.0.2     更新内容：* 添加截图，听筒和扩音器切换， 设置/获取音量等接口
  ***
 ### 2015/01/07版本更新记录
 ####Android插件：
