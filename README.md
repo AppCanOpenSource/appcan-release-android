@@ -1,10 +1,14 @@
 # appcan-release-android
-### 2015/01/11版本更新记录
+### 2016/01/16版本更新记录
 ####Android插件：
-1. 版本号：uexUploaderMgr-3.0.8     更新内容：*  修正plugin文件错误,导致uexFileMgr的plugin方法被覆盖的问题2. 版本号：uexContact-3.0.1     更新内容：* searchItem接口增加返回信息条数配置;addItem接口增加是否弹出提示框配置
-3. 版本号：uexDevice-3.0.2     更新内容：* 添加截图，听筒和扩音器切换， 设置/获取音量等接口
- ***
-### 2015/01/07版本更新记录
+1. 版本号：uexControl-3.0.6   更新内容：* 修复华为手机上输入日期不生效的问题;新增openDatePickerWithConfig可配置日期范围的日期选择器接口。     
+
+### 2016/01/11版本更新记录
+####Android插件：
+1. 版本号：uexUploaderMgr-3.0.8     更新内容：*  修正plugin文件错误,导致uexFileMgr的plugin方法被覆盖的问题2. 版本号：uexContact-3.0.1     更新内容：* searchItem接口增加返回信息条数配置;addItem接口增加是否弹出提
+3. 版本号：uexDevice-3.0.2     更新内容：* 添加截图，听筒和扩音器切换， 设置/获取音量等接口示框配置
+ ***
+### 2016/01/07版本更新记录
 ####Android插件：
 1. 版本号：uexBluetoothLE-3.0.3   更新内容：*  修正回调数据不正确的问题 ***
 
