@@ -1,4 +1,11 @@
 # appcan-release-android
+### 2016/01/26版本更新记录
+####Android引擎：
+   版本号：android_Engine_3.2_160120_01      更新内容：
+   ＊支持网页内定位   ＊JS注入漏洞修复    ＊新增容器接口    ＊若干bug修复
+####Android插件：
+1. 版本号：uexSina-3.0.11   更新内容：* 修复了分享图片不能读取wgts://格式的文件问题
+***
 ### 2016/01/16版本更新记录
 ####Android插件：
 1. 版本号：uexControl-3.0.6   更新内容：* 修复华为手机上输入日期不生效的问题;新增openDatePickerWithConfig可配置日期范围的日期选择器接口。     
