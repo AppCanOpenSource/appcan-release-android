@@ -1,4 +1,8 @@
 # appcan-release-android
+### 2016/03/02版本更新记录
+####Android插件：
+1. 版本号： uexSecurityKeyboard-3.0.0   更新内容：* 新增uexSecurityKeyboard安全键盘输入框插件2. 版本号：uexDownloaderMgr-3.0.14   更新内容：* 修复下载过程中下载进度过快导致应用异常的问题
+***
 ### 2016/02/24版本更新记录
 ####Android插件：
 1. 版本号：uexDevice-3.0.4   更新内容：* 解决多次截屏失效的问题
