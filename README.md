@@ -1,4 +1,12 @@
 # appcan-release-android
+### 2016/03/08版本更新记录
+####Android插件：
+1. 版本号： uexAudio-3.0.7   更新内容：* 解决了录音时用户禁止其权限的问题2. 版本号：uexImage-3.0.10   更新内容：* 针对保存图片到相册接口，修复开启增量更新时的res协议路径的bug
+3. 版本号：uexListView-3.0.9   更新内容：* 修复plugin.xml
+4. 版本号：uexPie-3.0.6   更新内容：* 修复plugin.xml
+   
+5. 版本号：uexFileMgr-3.0.13   更新内容：* 新增复制文件的方法***
+
 ### 2016/03/02版本更新记录
 ####Android插件：
 1. 版本号： uexSecurityKeyboard-3.0.0   更新内容：* 新增uexSecurityKeyboard安全键盘输入框插件2. 版本号：uexDownloaderMgr-3.0.14   更新内容：* 修复下载过程中下载进度过快导致应用异常的问题
