@@ -1,96 +1,96 @@
 # appcan-release-android
 ### 2016/03/16版本更新记录
 ####Android插件：
-1. 版本号： uexLoadingView-3.0.6    更新内容：* 解决空指针报错问题2. 版本号：uexScanner-3.0.15   更新内容：* 添加charset字段设置编码
+1. 版本号： uexLoadingView-3.0.6    更新内容：* 优化空指针报错问题2. 版本号：uexScanner-3.0.15   更新内容：新增charset字段设置编码
 3. 版本号：uexImage-3.0.11   更新内容：    * 优化所有手机剪裁图片的方案（针对华为、部分三星）。优化在打开图片浏览器显示图片列表，最新图片在最上方（倒序）          
     * 针对保存图片到相册接口，修复开启增量更新时的res协议路径的bug
-4. 版本号：uexPopoverMenu-3.0.0   更新内容：* 新弹出窗插件
+4. 版本号：uexPopoverMenu-3.0.0   更新内容：新增弹出窗插件
    
 5. 版本号：uexCamera-3.0.17   更新内容：
    * 修复了在三星手机上照片旋转方向不一致的问题
-   * 修复了多次点击照相按钮，再点重拍照相按钮失效的问题。
+   * 优化了多次点击照相按钮，再点重拍照相按钮失效的问题。
 6. 版本号：uexEasemob-3.0.20
 
-   更新内容：* 修复setNotifyBySoundAndVibrate无效的问题
+   更新内容：* 优化setNotifyBySoundAndVibrate无效的问题
 
    ***
 ### 2016/03/08版本更新记录
 ####Android插件：
-1. 版本号： uexAudio-3.0.7   更新内容：* 解决了录音时用户禁止其权限的问题2. 版本号：uexImage-3.0.10   更新内容：* 针对保存图片到相册接口，修复开启增量更新时的res协议路径的bug
-3. 版本号：uexListView-3.0.9   更新内容：* 修复plugin.xml
-4. 版本号：uexPie-3.0.6   更新内容：* 修复plugin.xml
+1. 版本号： uexAudio-3.0.7   更新内容：* 优化了录音时用户禁止其权限的问题2. 版本号：uexImage-3.0.10   更新内容：* 优化针对保存图片到相册接口开启增量更新时的res协议路径
+3. 版本号：uexListView-3.0.9   更新内容：* 优化plugin.xml
+4. 版本号：uexPie-3.0.6   更新内容：* 优化plugin.xml
    
 5. 版本号：uexFileMgr-3.0.13   更新内容：* 新增复制文件的方法***
 
 ### 2016/03/02版本更新记录
 ####Android插件：
-1. 版本号： uexSecurityKeyboard-3.0.0   更新内容：* 新增uexSecurityKeyboard安全键盘输入框插件2. 版本号：uexDownloaderMgr-3.0.14   更新内容：* 修复下载过程中下载进度过快导致应用异常的问题
+1. 版本号： uexSecurityKeyboard-3.0.0   更新内容：* 新增uexSecurityKeyboard安全键盘输入框插件2. 版本号：uexDownloaderMgr-3.0.14   更新内容：* 优化下载过程中下载进度过快导致应用异常的问题
 ***
 ### 2016/02/24版本更新记录
 ####Android插件：
-1. 版本号：uexDevice-3.0.4   更新内容：* 解决多次截屏失效的问题
+1. 版本号：uexDevice-3.0.4   更新内容：* 优化多次截屏失效的问题
    ***
 ### 2016/02/22版本更新记录
 ####Android插件：
-1. 版本号：uexJPush-3.0.9   更新内容：* 修复setTags返回格式不正确的问题2. 版本号：uexScanner-3.0.14   更新内容：* 调整扫描框为正方形3. 版本号：uexDevice-3.0.3   更新内容：* 添加判断功能是否开启,以及打开设置界面接口
+1. 版本号：uexJPush-3.0.9   更新内容：* 优化setTags返回格式不正确的问题2. 版本号：uexScanner-3.0.14   更新内容：* 优化扫描框为正方形3. 版本号：uexDevice-3.0.3   更新内容：* 新增判断功能是否开启,以及打开设置界面接口
  ***
 
 ### 2016/01/26版本更新记录
 ####Android引擎：
    版本号：android_Engine_3.2_160120_01      更新内容：
-   ＊支持网页内定位   ＊JS注入漏洞修复    ＊新增容器接口    ＊若干bug修复
+   ＊新增支持网页内定位   ＊优化JS注入漏洞    ＊新增容器接口    
 ####Android插件：
-1. 版本号：uexSina-3.0.11   更新内容：* 修复了分享图片不能读取wgts://格式的文件问题
+1. 版本号：uexSina-3.0.11   更新内容：* 优化分享图片不能读取wgts://格式的文件问题
 ***
 ### 2016/01/16版本更新记录
 ####Android插件：
-1. 版本号：uexControl-3.0.6   更新内容：* 修复华为手机上输入日期不生效的问题;新增openDatePickerWithConfig可配置日期范围的日期选择器接口。     
+1. 版本号：uexControl-3.0.6   更新内容：* 解决华为手机上输入日期不生效的问题;新增openDatePickerWithConfig可配置日期范围的日期选择器接口。     
 
 ### 2016/01/11版本更新记录
 ####Android插件：
-1. 版本号：uexUploaderMgr-3.0.8     更新内容：*  修正plugin文件错误,导致uexFileMgr的plugin方法被覆盖的问题2. 版本号：uexContact-3.0.1     更新内容：* searchItem接口增加返回信息条数配置;addItem接口增加是否弹出提
-3. 版本号：uexDevice-3.0.2     更新内容：* 添加截图，听筒和扩音器切换， 设置/获取音量等接口示框配置
+1. 版本号：uexUploaderMgr-3.0.8     更新内容：*  优化plugin文件uexFileMgr的plugin方法被覆盖的问题2. 版本号：uexContact-3.0.1     更新内容：* 新增searchItem接口增加返回信息条数配置;addItem接口增加是否弹出提
+3. 版本号：uexDevice-3.0.2     更新内容：* 新增截图，听筒和扩音器切换， 设置/获取音量等接口示框配置
  ***
 ### 2016/01/07版本更新记录
 ####Android插件：
-1. 版本号：uexBluetoothLE-3.0.3   更新内容：*  修正回调数据不正确的问题 ***
+1. 版本号：uexBluetoothLE-3.0.3   更新内容：*  优化回调数据不正确的问题 ***
 
 
 ### 2015/12/31版本更新记录
 ####Android插件：
-1. 版本号：uexDownloaderMgr-3.0.13     更新内容：修复有些url被encode不能下载的问题2. 版本号：uexVideo-3.0.4     更新内容：删除无用资源，修复Gradle编译不过的问题 ***
+1. 版本号：uexDownloaderMgr-3.0.13     更新内容：优化有些url被encode不能下载的问题2. 版本号：uexVideo-3.0.4     更新内容：优化删除无用资源，修复Gradle编译不过的问题 ***
 
 ### 2015/12/26版本更新记录
 ####Android插件：
-1. 版本号：uexWeiXin-3.1.33     更新内容：修复和完善抛出异常的捕获2. 版本号：uexScanner-3.0.13     更新内容：拍照权限被禁止情况处理3. 版本号：uexChart-3.0.2     更新内容： barChart和lineChart新增option参数  4. 版本号：uexGaodeMap-3.0.12     更新内容：修复闪退的问题 ***
+1. 版本号：uexWeiXin-3.1.33     更新内容：优化和完善抛出异常的捕获2. 版本号：uexScanner-3.0.13     更新内容：优化拍照权限被禁止情况处理3. 版本号：uexChart-3.0.2     更新内容： 新增barChart和lineChart  option参数  4. 版本号：uexGaodeMap-3.0.12     更新内容：优化闪退的问题 ***
 
 ### 2015/12/19版本更新记录
 ####Android插件：
-1. 版本号：uexCoverFlow2-3.0.7   更新内容：open接口添加跟随webview滚动参数,部分逻辑优化2. 版本号：uexScrollPicture-3.0.2   更新内容：修复闪退的问题3. 版本号：uexGestureUnlock-3.0.0   更新内容：新增 4. 版本号：uexUmeng-3.0.0   更新内容：新增 5. 版本号：uexUnionPay-3.0.0   更新内容：新增 6. 版本号：uexLocalNotification-3.0.8   更新内容：修复部分机型通知没有提示音的问题7. 版本号：uexEasemob-3.0.19   更新内容：修改cbGetMessageHistory与文档不一致的问题8. 版本号：uexSina-3.0.10   更新内容：cbRegisterApp回调openId和token9. 版本号：uexGaodeMap-3.0.11   更新内容：修复闪退的问题
+1. 版本号：uexCoverFlow2-3.0.7   更新内容：优化open接口添加跟随webview滚动参数2. 版本号：uexScrollPicture-3.0.2   更新内容：优化闪退的问题3. 版本号：uexGestureUnlock-3.0.0   更新内容：新增 4. 版本号：uexUmeng-3.0.0   更新内容：新增 5. 版本号：uexUnionPay-3.0.0   更新内容：新增 6. 版本号：uexLocalNotification-3.0.8   更新内容：优化部分机型通知没有提示音的问题7. 版本号：uexEasemob-3.0.19   更新内容：优化cbGetMessageHistory与文档不一致的问题8. 版本号：uexSina-3.0.10   更新内容：优化cbRegisterApp回调openId和token9. 版本号：uexGaodeMap-3.0.11   更新内容：优化闪退的问题
  ***
 
 ### 2015/12/09版本更新记录
 ####Android插件：
 1. 版本号：uexAudio-3.0.6
-	更新内容：	* 添加听筒模式接口,修复小米手机音量设置无效的问题
+	更新内容：	* 新增听筒模式接口,修复小米手机音量设置无效的问题
 	
-	* 修复uexAudio.record方法不支持录音文件存储为.mp3格式的问题   2. 版本号：uexTimeMachine-3.0.5   更新内容：修复id覆盖关闭不掉的情况，修复传入小数错误的问题
+	* 优化uexAudio.record方法不支持录音文件存储为.mp3格式的问题   2. 版本号：uexTimeMachine-3.0.5   更新内容：优化id覆盖关闭不掉的情况，修复传入小数错误的问题
  ***
 ### 2015/12/04版本更新记录
 ####Android插件：
- 1. 版本号：uexLocalNotification-3.0.7    更新内容：修复部分机型闪退的问题 2. 版本号：uexBaiduMap-3.2.28    更新内容：修复open接口传入的中心点不生效的问题 3. 版本号：uexEasemob-3.0.17    更新内容：支持initEasemob配置key，无需自定义插件 4. 版本号：uexBluetoothLE-3.0.2    更新内容：init自动开启蓝牙；修复cbConnect没有回调的问题
- 5. 版本号：uexInputTextFieldView-3.2.11    更新内容：修复关闭输入框时,键盘未自动收起的问题
+ 1. 版本号：uexLocalNotification-3.0.7    更新内容：优化部分机型闪退的问题 2. 版本号：uexBaiduMap-3.2.28    更新内容：优化open接口传入的中心点不生效的问题 3. 版本号：uexEasemob-3.0.17    更新内容：优化initEasemob配置key，无需自定义插件 4. 版本号：uexBluetoothLE-3.0.2    更新内容：优化init自动开启蓝牙；cbConnect没有回调的问题
+ 5. 版本号：uexInputTextFieldView-3.2.11    更新内容：优化关闭输入框时,键盘未自动收起的问题
 ***
 
 ### 2015/12/03版本更新记录
 ####Android引擎：
  版本号：android_Engine_3.2_151203_01 更新内容：
-  * 添加浮动窗口动画
- * 引擎新增关闭全部硬件加速方法 
+  * 新增浮动窗口动画
+ * 新增引擎关闭全部硬件加速方法 
 ***
 ### 2015/11/30版本更新记录
 ####Android插件：
- 1. 版本号：uexTent-3.0.11    更新内容：修复取消授权时程序崩溃的问题 2. 版本号：uexCalendarView-3.0.3    更新内容：修复month拼写错误的问题 3. 版本号：uexSina-3.0.9    更新内容：替换SinaSDK，重写授权登陆相关接口；新增login、logout、getUserInfo接口； 4. 版本号：uexWeiXin-3.1.32    更新内容：新增setCallbackWindowName接口，解决偶尔收不到回调的问题；      (因为是修复bug的补充接口，因此iOS暂不需要添加)
+ 1. 版本号：uexTent-3.0.11    更新内容：优化取消授权时程序崩溃的问题 2. 版本号：uexCalendarView-3.0.3    更新内容：优化month拼写错误的问题 3. 版本号：uexSina-3.0.9    更新内容：优化SinaSDK，重写授权登陆相关接口；新增login、logout、getUserInfo接口； 4. 版本号：uexWeiXin-3.1.32    更新内容：新增setCallbackWindowName接口，解决偶尔收不到回调的问题；
 
 ### 2015/11/23版本更新记录
 ####Android插件：
