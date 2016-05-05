@@ -1,4 +1,23 @@
 # appcan-release-android
+### 2016/05/04版本更新记录
+####Android引擎：								版本号：android_Engine_3.3_160321_01	 
+更新内容：uexWindow.prompt增加参数hint
+####Android插件：
+1. 版本号：uexCamera360-3.0.0	
+   更新内容：新增uexCamera360插件							2. 版本号：uexGaodeMap-3.0.13	
+   更新内容：open接口添加回调							3. 版本号：uexImage-3.0.13	
+   更新内容：优化图片选择器按照图片修改时间排序							4. 版本号：uexLocation-3.0.8	
+   更新内容：新增坐标系转换接口,支持wgs84,gcj02,bd09格式相互转换							5. 版本号：uexPDFReader-3.0.4	
+   更新内容：
+   *由于一些特殊字体的pdf无法打开，基于mupdf重写uexPDFReader插件
+      *兼容一些特殊字体的pdf
+      *优化了方法数,使插件更轻量级;方法数从6837减至1016
+   *用本地广播实现close方法
+   *插件包动态加载dex，避免方法数过多问题"							6. 版本号：uexSegmentControl-3.0.4	
+   更新内容：修正无选中效果的问题,优化选中逻辑							7. 版本号：uexSina-3.0.12	
+   更新内容：修复图片路径读取的问题							8. 版本号：uexWheelPickView-3.0.1	
+   更新内容：点击"确定"按钮时，关闭选择器
+   ***
 ### 2016/04/23版本更新记录
 ####Android插件：
 1. 版本号：uexFileMgr 3.0.16	
