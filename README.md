@@ -1,7 +1,8 @@
 # appcan-release-android
 ### 2016/05/04版本更新记录
-####Android引擎：								版本号：android_Engine_3.3_160321_01	 
-更新内容：uexWindow.prompt增加参数hint
+####Android引擎：								版本号：android_Engine_3.3_160429_01
+更新内容：
+新增：                                                             * uexWindow.prompt添加hint参数                                      * 新增uexWindow.openPresentWindow接口* 新增uexWindow.publishChannelNotificationForJson接口  * 新增uexWindow.disturbLongPressGesture接口（和ios统一）                                              优化：* 优化快速滑动slider时，多浮动窗口会跟着滑动 * 打开已订阅过的浮动窗口subscribe失败，publish不执行问题 * 优化侧滑窗口会闪白色背景问题，增加4.0推送自定义通知布局文件 * 支持url 打开APP情况下的参数获取 * 支持远程调试  
 ####Android插件：
 1. 版本号：uexCamera360-3.0.0	
    更新内容：新增uexCamera360插件							2. 版本号：uexGaodeMap-3.0.13	
@@ -17,6 +18,16 @@
    更新内容：修正无选中效果的问题,优化选中逻辑							7. 版本号：uexSina-3.0.12	
    更新内容：修复图片路径读取的问题							8. 版本号：uexWheelPickView-3.0.1	
    更新内容：点击"确定"按钮时，关闭选择器
+9. 版本号：uexCamera-3.0.19	 
+   更新内容：
+   * 接口变动：uexCamera.cbOpenViewCamera回调方法；返回的JSON中增加字段label,替换之前的location   * 优化了EUExCamera代码逻辑，优化了压缩图片算法，增加注释，规范代码							
+   10. 版本号：uexContact-3.0.4	
+    更新内容：新增search,modifyWithId,deleteWithId接口以及cbSearch,cbModifyWithId,cbDeleteWithId回调.优化查询逻辑							11. 版本号：uexDevice-3.0.6	
+    更新内容：Android6.0支持获取wifi mac地址							12. 版本号：uexEasemob-3.0.23	
+    更新内容：
+    * 升级环信SDK至3.1.2,  添加客服功能。 
+    * 优化getRecentChatters							13. 版本号：uexFileMgr-3.0.19	
+    更新内容：修正readFile接口的option参数可以为空
    ***
 ### 2016/04/23版本更新记录
 ####Android插件：
