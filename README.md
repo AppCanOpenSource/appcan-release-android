@@ -1,4 +1,37 @@
 # appcan-release-android
+### 2016/05/20版本更新记录
+####Android引擎：
+
+版本号：android_Engine_3.3_160520_01	
+
+更新内容：
+
+* 新增uexWidget.closeLoading                                                                           
+* 新增uexWindow.setLoadingImagePath* 支持自定义错误页面
+   
+####Android插件：
+1. 版本号：uexFileMgr-3.0.21	
+
+   更新内容：
+   * 优化部分成功失败的状态回调返回的回调数据类型错误的问题 
+   * 优化图片以Base64写入后打开失败的问题
+   2. 版本号：uexImage-3.0.16	
+   更新内容：当进行图片方形裁剪时，固定图片的尺寸
+   3. 版本号：uexUploaderMgr-3.0.10	
+   更新内容：支持后台上传
+4. 版本号：uexTabBarWithPopMenu-3.0.0
+   更新内容：新增uexTabBarWithPopMenu 插件
+5. 版本号：uexALiBaiChuan -3.0.0	
+   更新内容：新增阿里百川插件
+6. 版本号：uexQupai-3.0.0	
+   更新内容：新增趣拍插件
+7. 版本号：uexNBlistview-3.0.0	
+   更新内容：新增uexNBlistview插件
+
+
+
+***
+
 ### 2016/05/13版本更新记录
 ####Android插件：
 1. 版本号：uexWeiXin-3.1.35	
