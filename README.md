@@ -1,4 +1,14 @@
 # appcan-release-android
+### 2016/06/24版本更新记录
+####Android引擎：
+
+版本号：android_Engine_3.3_160620_01
+
+更新内容：
+
+* 修复不支持横竖屏切换的问题 
+* config.xml支持配置全屏  
+***
 ### 2016/06/12版本更新记录
 ####Android插件：
 1. 版本号：uexAudio-3.0.9
