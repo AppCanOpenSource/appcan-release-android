@@ -1,4 +1,11 @@
 # appcan-release-android
+### 2016/07/18版本更新记录
+####Android引擎：
+
+版本号：android_Engine_3.3_160715_01_3.3.4
+
+更新内容：crosswalk引擎
+
 ### 2016/07/09版本更新记录
 ####Android插件：
 1. 版本号：uexImage-3.0.18
