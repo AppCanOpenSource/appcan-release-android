@@ -1,10 +1,28 @@
 # appcan-release-android
+
+### 2016/7/29版本更新记录
+####Android插件：1. 版本号：uexCamera-3.0.21		
+   更新内容：* 修复了小内存手机压缩图片时发生OOM的问题 * 修复inSampleSize不生效的问题2. 版本号：uexVideo-3.0.8		
+   更新内容：添加播放完毕后的监听3. 版本号：uexXunfei-3.0.1		
+   更新内容：添加语音识别功能
+4. 版本号：uexLocation-3.0.10		
+   更新内容：升级逆地理编码	####Android引擎：版本号：android_Engine_3.3_160729_01		
+更新内容：解决高德与百度插件冲突的问题
+***### 2016/7/22版本更新记录####Android插件：
+1. 版本号：uexLocalNotification-3.0.10	
+   更新内容：新增收到通知和点击通知相关的回调。2. 版本号：uexMobSMS-3.0.1	
+   更新内容：新增错误信息返回值3. 版本号：uexPDFReader-3.0.5	
+   更新内容：UI改善	####Android引擎：	版本号：android_Engine_3.3_160720_01
+更新内容：EBrowserActivity添加对onNewIntent生命周期的反射处理，插件可拦截该生命周期。
+***
+
 ### 2016/07/18版本更新记录
 ####Android引擎：
 
 版本号：android_Engine_3.3_160715_01_3.3.4
 
 更新内容：crosswalk引擎
+***
 
 ### 2016/07/09版本更新记录
 ####Android插件：
