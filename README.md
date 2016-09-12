@@ -2,11 +2,6 @@
 
 ### 2016/9/9版本更新记录
 
-#### iOS插件：
-1. 版本号：uexLocation-iOS-3.0.29		
-
-   更新内容：新增getAddressByType接口，支持指定类型的经纬度返回
-
 #### Android插件：
 1. 版本号：uexLocation-Android-3.0.11		
 
