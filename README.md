@@ -1,5 +1,21 @@
 # appcan-release-android
 
+### 2016/9/13版本更新记录
+   
+#### Android插件：
+1. 版本号：uexSecurityKeyboard-android-3.0.1		
+
+   更新内容：新增isScrollWithWeb参数控制是否随网页滚动
+
+2. 版本号：uexAliPay-android-3.0.9		
+
+   更新内容：SDK升级
+
+#### Android引擎：
+ 版本号：android_Engine_3.4_160913_01		
+
+   更新内容：1.增加接口uexWindow.setPopoverVisibility；2.沉浸式通知栏
+
 ### 2016/9/9版本更新记录
 
 #### Android插件：
