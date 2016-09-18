@@ -1,5 +1,7 @@
 # appcan-release-android
 
+### 2016/9/18版本更新记录   #### Android插件：1. 版本号：uexChatKeyboard-android-3.0.15		   更新内容：添加@好友相关接口
+
 ### 2016/9/14版本更新记录   #### Android插件：1. 版本号：uexEasemob-android-3.0.27		   更新内容：支持小米推送2. 版本号：uexMiPush-android-3.0.0   更新内容：新增小米推送插件
 
 ### 2016/9/13版本更新记录
