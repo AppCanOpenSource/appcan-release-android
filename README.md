@@ -1,5 +1,6 @@
 # appcan-release-android
 
+### 2016/10/20版本更新记录#### Android插件：1. 版本号：uexScanner-android-3.0.22	   更新内容：优化扫描速度，解决图像变形问题；新增recognizeFromImage方法
 ### 2016/10/13版本更新记录#### Android插件：1. 版本号：uexEasemob-android-3.0.28		   更新内容：修复ShowNotificationInBackgroud参数无效的问题   2. 版本号：uexImage-android-3.0.20		   更新内容：修复图片有时候加载不出来的问题
 
 ### 2016/9/22版本更新记录#### Android插件：1. 版本号：uexGaodeMap-android-3.0.14		   更新内容：解决与高德导航冲突的问题   2. 版本号：uexGaodeNavi-android-3.0.2		   更新内容：解决与高德地图冲突的问题
