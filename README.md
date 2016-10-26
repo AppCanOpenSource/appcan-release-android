@@ -1,5 +1,7 @@
 # appcan-release-android
 
+### 2016/10/26版本更新记录#### Android插件：1. 版本号：uexShakeView-android-3.0.2	   更新内容：新增参数，支持界面自定义
+
 ### 2016/10/20版本更新记录#### Android插件：1. 版本号：uexScanner-android-3.0.22	   更新内容：优化扫描速度，解决图像变形问题；新增recognizeFromImage方法
 ### 2016/10/13版本更新记录#### Android插件：1. 版本号：uexEasemob-android-3.0.28		   更新内容：修复ShowNotificationInBackgroud参数无效的问题   2. 版本号：uexImage-android-3.0.20		   更新内容：修复图片有时候加载不出来的问题
 
