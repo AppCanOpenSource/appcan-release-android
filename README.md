@@ -1,5 +1,8 @@
 # appcan-release-android
 
+### 2016/10/27版本更新记录#### Android插件：1. 版本号：uexUmeng-android-3.0.1	   更新内容：友盟SDK更新
+
+2. 版本号：uexControl-android-3.0.11	   更新内容：修复在高版本手机上选择日期时的crash问题
 ### 2016/10/26版本更新记录#### Android插件：1. 版本号：uexShakeView-android-3.0.2	   更新内容：新增参数，支持界面自定义
 
 ### 2016/10/20版本更新记录#### Android插件：1. 版本号：uexScanner-android-3.0.22	   更新内容：优化扫描速度，解决图像变形问题；新增recognizeFromImage方法
