@@ -1,5 +1,9 @@
 # appcan-release-android
 
+### 2016/11/2版本更新记录#### Android插件：1. 版本号：uexSearchBarView-android-3.0.2	   更新内容：新增字符联想功能
+   
+2. 版本号：uexBluetoothLE-android-3.0.7	   更新内容：修复部分设备connect失败的问题
+
 ### 2016/10/28版本更新记录#### Android插件：1. 版本号：uexListView-android-3.0.11	   更新内容：整合代码，解决打包和uexNBListView插件冲突的问题
 
 ### 2016/10/27版本更新记录#### Android插件：1. 版本号：uexUmeng-android-3.0.1	   更新内容：友盟SDK更新
